@@ -100,10 +100,10 @@ Copyright ©️ [Tech VJ](https://telegram.me/Kingvj01)
 
 <b><details><summary>Tap On Me For See Details Of Owner</summary>
 
-- YouTube Channel : [Tech VJ](https://youtube.com/@Tech_VJ)
-- Telegram Channel : [VJ Botz](https://telegram.me/VJ_Botz)
-- Contact Link : [King VJ](https://telegram.me/Kingvj01)
-- Instagram Id Link : [Tech VJ](https://instagram.com/tech.vj)
+- Backup Channel : [Mc Movies](https://telegram.me/McMoviesKA)
+- Telegram Channel : [Mc Movies](https://telegram.me/McMoviesKA)
+- Contact Link : [Owner](https://telegram.me/McChatz_bot)
+- Instagram Id Link : [Movies](https://www.instagram.com/movies_corner_14?igsh=MW00MnhpaGEyOGg0Zg==)
 
 </b>
 </details>
